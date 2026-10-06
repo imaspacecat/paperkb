@@ -1,0 +1,9 @@
+*.kicad_prl
+~*.lck
+*-backups/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+fp-info-cache
+.history/
+kbplacer.log
