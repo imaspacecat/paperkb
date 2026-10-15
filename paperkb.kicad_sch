@@ -12280,7 +12280,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "30pF"
 			(at 166.37 223.5262 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14414,7 +14414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "30pF"
 			(at 182.88 222.2562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14917,7 +14917,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 186.69 213.36 90)
 			(show_name no)
 			(do_not_autoplace no)

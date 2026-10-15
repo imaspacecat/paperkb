@@ -7,3 +7,13 @@
 fp-info-cache
 .history/
 kbplacer.log
+
+/analysis/
+/datasheets/
+
+/jlcpcb/gerber/
+/jlcpcb/production_files/
+
+*.swp
+*.swo
+*~
